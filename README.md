@@ -161,4 +161,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Join us and be a part of something great! Happy contributing! 🚀
+Join us and be a part of something great! Happy contributing to you all! 🚀
